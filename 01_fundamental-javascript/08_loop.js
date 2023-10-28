@@ -1,7 +1,7 @@
 // Sample 1: For loop //
 for(let i = 0; i < 5; i++) {
-    console.log(i);
-  }
+  console.log(i);
+}
   
   /* output
   0
